@@ -357,9 +357,6 @@ sweet_shop/
 ### Admin Panel
 ![Admin Panel](screenshots/admin.png)
 
-### Purchase Sweet
-![Purchase](screenshots/purchase.png)
-
 ---
 
 ## 🎓 Development Methodology
